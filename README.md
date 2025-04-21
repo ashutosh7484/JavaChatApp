@@ -15,7 +15,7 @@ Java 8 or higher
 
 How to Run
 Clone the Repository:
-git clone https://github.com/ashutosh7484/java-chat-application.git
+git clone https://github.com/ashutosh7484/JavaChatApp.git
 cd java-chat-application
 Compile the Code:
 javac src/ChatServer.java src/ChatClient.java
