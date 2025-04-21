@@ -13,6 +13,8 @@ Styled GUI: Messages are color-coded (e.g., private messages in blue, system mes
 Prerequisites
 Java 8 or higher
 
+screenshots: 
+
 How to Run
 Clone the Repository:
 git clone https://github.com/ashutosh7484/JavaChatApp.git
